@@ -9,3 +9,4 @@
 #### resnet_cifar10_distil.ipynb : The experiment of knowledge distillation on CIFAR10.
 #### resnet50_cifar10.ipynb : The process of resnet50 trainning on CIFAR10. (baseline, ablation)
 #### resnet_cifar10_self_distil.ipynb : Resnet50 self distilation experiment.
+#### resnet_cifar10_distil_reverse.ipynb : Experiment for reverse distillation on cifar10.
